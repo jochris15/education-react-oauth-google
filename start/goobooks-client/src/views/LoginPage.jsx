@@ -64,7 +64,7 @@ export default function LoginPage({ url }) {
                             />
                         </div>
                         <div>
-                            <button type="submit" className="btn btn-accent">Log In</button>
+                            <button type="submit" className="btn btn-accent w-full">Log In</button>
                         </div>
                     </form>
                 </div>
